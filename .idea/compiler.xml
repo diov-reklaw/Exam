@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="exam-core-utils" />
+        <module name="exam-core-dao" />
+        <module name="exam-core-dao-impl" />
+        <module name="exam-web" />
+        <module name="exam-web-logic" />
+        <module name="exam-core-data" />
+        <module name="exam-core-service" />
+        <module name="exam-core-dto" />
+        <module name="exam-core-service-impl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

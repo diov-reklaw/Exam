@@ -1,0 +1,10 @@
+# Project exclude paths
+/exam-core-dao/target/
+/exam-core-dao-impl/target/
+/exam-core-data/target/
+/exam-core-dto/target/
+/exam-core-service/target/
+/exam-core-service-impl/target/
+/exam-core-utils/target/
+/exam-web/target/
+/exam-web-logic/target/
